@@ -6,7 +6,7 @@ The following instructions have been tested with Python2.7 on Linux and MacOS
 
 2. Create the index in ElasticSearch by running `python create_es_index.py` from `EducationalWeb/`
 
-3. Download tfidf_outputs.zip from here -- https://drive.google.com/file/d/19ia7CqaHnW3KKxASbnfs2clqRIgdTFiw/view?usp=sharing
+3. Download tfidf_outputs.zip from here -- https://drive.google.com/file/d/1729bafO2OypMOpi6N-W2U9ZaoZq7HP7K/view?usp=sharing
    
    Unzip the file and place the folder under `EducationalWeb/static`
 
